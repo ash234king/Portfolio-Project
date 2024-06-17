@@ -1,0 +1,16 @@
+body{
+    background-color: burlywood;
+    font-family:'Courier New', Courier, monospace;
+    top:50%;
+    left:50%;
+}
+nav{
+    background-color:aqua;
+}
+section{
+    display: flex;
+}
+.card{
+    flex: 1;
+    border: 1px solid black;
+}
